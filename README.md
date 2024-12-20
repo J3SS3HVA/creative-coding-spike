@@ -22,13 +22,14 @@ https://github.com/SamaraFellaDina/future-ready-design/issues/85
 
 <hr>
 
-DE WEBSITE
+## DE WEBSITE
 
 https://jesse-audio-api.netlify.app/
 
-###
+### ISSUES
 
 https://github.com/SamaraFellaDina/future-ready-design/issues/92
+
 https://github.com/SamaraFellaDina/future-ready-design/issues/97
 
 
